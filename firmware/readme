@@ -1,0 +1,2 @@
+The provided binary file should be flashed to a STM32F4111CEU6 MCU with a 8MB SPI Flash chip.
+The file contains the v1.20 MicroPython firmware.
