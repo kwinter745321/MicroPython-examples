@@ -1,1 +1,12 @@
+#README
+##STM32F411CEU6 board firmware
+
+The provided binary file should be flashed to a STM32F4111CEU6 MCU with a 8 MHz crystal and 8 MB SPI Flash chip.
+This board is bread board friendly and splits its pins in a manner similar to the BlackPill.
+The firmware was built using the MicroPython 1.20 base and the WeAct Studios instructions for the BlackPill.
+
+The file contains the v1.20 MicroPython firmware.
+
+This firmware contains MicroPython 1.20.0 released in April 2023.
+mpconfigboard.h describes the various features selected for the build on 08 September 2023.
 
