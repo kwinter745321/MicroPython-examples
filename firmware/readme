@@ -1,5 +1,3 @@
-The provided binary file should be flashed to a STM32F4111CEU6 MCU with a 8MB SPI Flash chip.
-The file contains the v1.20 MicroPython firmware.
+#Folder Contents.
 
-This firmware contains MicroPython 1.20.0 released in April 2023.
-mpconfigboard.h describes the various features selected for the build on 26 July 2023..
+The folder contains firmware for various STM32F411CEU6 boards that differ by the primary crystal and the onboard flash.
